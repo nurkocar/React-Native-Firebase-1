@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806529974732",
+    "firebase_url": "https://claruswaye2466-nur.firebaseio.com",
+    "project_id": "claruswaye2466-nur",
+    "storage_bucket": "claruswaye2466-nur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806529974732:android:69bc886ed230b71d0ddd69",
+        "android_client_info": {
+          "package_name": "com.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806529974732-rkrb1n0t9fjehveanmbvchu3c2tu28q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7EYJHMBLysw8a2_4tavgxOYlx_h8sWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806529974732-rkrb1n0t9fjehveanmbvchu3c2tu28q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
